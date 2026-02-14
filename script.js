@@ -21,7 +21,6 @@ const noMessages = [
     "Tu ne peux pas m’attraper de toute façon 😜"
 ]
 
-
 const yesTeasePokes = [
     "essaie de dire non d’abord... je parie que tu veux savoir ce qui se passe 😏",
     "vas-y, appuie sur non... juste une fois 👀",
