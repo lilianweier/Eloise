@@ -12,7 +12,7 @@ const gifStages = [
 const noMessages = [
     "Non",
     "Tu es sûr(e) ? 🤔",
-    "Pookie, s’il te plaît... 🥺",
+    "S’il te plaît... 🥺",
     "Si tu dis non, je serai vraiment triste...",
     "Je serai très triste... 😢",
     "S’il te plaît ??? 💔",
